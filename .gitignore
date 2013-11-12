@@ -1,0 +1,17 @@
+# Idea
+.idea/
+*.iml
+*.ipr
+*.iws
+.buildpath
+
+target/
+.lib/
+.ensime*
+
+# the following is for vi and emacs users
+*~
+*#
+.#*
+
+z_local.sbt
